@@ -35,7 +35,7 @@ fork 本项目，修改 customize.json 文件，将里面的内容替换为你�
 
 - Netlify 部署（国内用户推荐，不被墙）
 
-   [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/abandon888/HappyBirthday)
+   [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/eryaozm/HappyBirthday)
 
 > 你不需要向本仓库发起 PR
 
