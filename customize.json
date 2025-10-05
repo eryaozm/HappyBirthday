@@ -19,7 +19,7 @@
   "outroText": "希望你喜欢这个小小的惊喜!",
   "replayText": "如果你喜欢的话，点这里可以再看一次哦!或者读一读下面这封信吧。",
   "outroSmiley": ":)",
-  "music": "./music/bgMusic.mp3",
+  "music": "./music/music.mp3",
   "fonts": [
     {
       "name": "Ma Shan Zheng",
